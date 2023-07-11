@@ -15,3 +15,4 @@ cd / akan berpindah ke root directory
 - dir -> melihat directory
 
 
+saya nambah baris baru
